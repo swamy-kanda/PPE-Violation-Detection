@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+cv_env/
+
+# Runtime generated violation images
+PPE_Violations/
+
+# Generated output images
+ppe_realtime.jpg
+ppe_result.jpg
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
